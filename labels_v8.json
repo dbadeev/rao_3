@@ -1,0 +1,1129 @@
+{
+  "source": "Shablon-prezentatsii_RUS_16x9.pptx (28 slides)",
+  "cases": [
+    {
+      "case_id": "d01",
+      "slide_number": 1,
+      "json_index": 0,
+      "fingerprint": "20e337f2b0eb",
+      "layout": "1_Титульный слайд",
+      "selection": "included",
+      "selection_reason": "",
+      "blank": false,
+      "type": "title",
+      "type_alternatives": [],
+      "usability": "full",
+      "fields": {
+        "TITLE_FIELD": [
+          2
+        ],
+        "SUBTITLE_FIELD": [
+          3
+        ]
+      },
+      "paragraph_roles": [],
+      "compound_images": [],
+      "open_candidates": [],
+      "field_notes": {
+        "SUBTITLE_FIELD": "Блок id3 содержит докладчика, должность и дату одним текстом"
+      },
+      "uncertain": false,
+      "review": {
+        "status": "v8_author_decisions_1_oct",
+        "author": "assistant + author remarks"
+      }
+    },
+    {
+      "case_id": "d02",
+      "slide_number": 2,
+      "json_index": 1,
+      "fingerprint": "8d8f88b27d01",
+      "layout": "1_Заголовок раздела",
+      "selection": "included",
+      "selection_reason": "",
+      "blank": false,
+      "type": "section",
+      "type_alternatives": [],
+      "usability": "full",
+      "fields": {
+        "TITLE_FIELD": [
+          2
+        ],
+        "SUBTITLE_FIELD": []
+      },
+      "paragraph_roles": [],
+      "compound_images": [],
+      "open_candidates": [],
+      "field_notes": {
+        "SUBTITLE_FIELD": "Отдельной фигуры подзаголовка нет; поле не обязательно",
+        "TITLE_FIELD": "Заполнитель пуст, но выделен цветом макета и является местом заголовка: размечен"
+      },
+      "uncertain": false,
+      "review": {
+        "status": "v8_author_decisions_1_oct",
+        "author": "assistant + author remarks"
+      }
+    },
+    {
+      "case_id": "d03",
+      "slide_number": 3,
+      "json_index": 2,
+      "fingerprint": "03b2e16ca5cd",
+      "layout": "1_Заголовок и объект",
+      "selection": "included",
+      "selection_reason": "",
+      "blank": true,
+      "type": "slide",
+      "type_alternatives": [],
+      "usability": "static",
+      "fields": {
+        "TITLE_FIELD": [],
+        "TEXT_FIELD": [],
+        "IMAGE_FIELD": []
+      },
+      "paragraph_roles": [],
+      "compound_images": [],
+      "open_candidates": [],
+      "field_notes": {
+        "TITLE_FIELD": "Пустой слайд — «ноль» набора: ничего не размечается и не заполняется; вставляется, если текст пользователя требует пустого слайда"
+      },
+      "uncertain": false,
+      "review": {
+        "status": "v8_author_decisions_1_oct",
+        "author": "assistant + author remarks"
+      }
+    },
+    {
+      "case_id": "d04",
+      "slide_number": 4,
+      "json_index": 3,
+      "fingerprint": "01963f613b84",
+      "layout": "1_Заголовок и объект",
+      "selection": "included",
+      "selection_reason": "",
+      "blank": false,
+      "type": "slide",
+      "type_alternatives": [],
+      "usability": "full",
+      "fields": {
+        "TITLE_FIELD": [
+          2
+        ],
+        "TEXT_FIELD": [],
+        "IMAGE_FIELD": [
+          3
+        ]
+      },
+      "paragraph_roles": [],
+      "compound_images": [],
+      "open_candidates": [],
+      "field_notes": {
+        "TITLE_FIELD": "Пустой заполнитель размечен: ниже содержательный объект (картинка)",
+        "TEXT_FIELD": "Текстовой области нет"
+      },
+      "uncertain": false,
+      "review": {
+        "status": "v8_author_decisions_1_oct",
+        "author": "assistant + author remarks"
+      }
+    },
+    {
+      "case_id": "d05",
+      "slide_number": 5,
+      "json_index": 4,
+      "fingerprint": "01963f613b84",
+      "layout": "1_Заголовок и объект",
+      "selection": "included",
+      "selection_reason": "",
+      "blank": false,
+      "type": "slide",
+      "type_alternatives": [],
+      "usability": "full",
+      "fields": {
+        "TITLE_FIELD": [
+          2
+        ],
+        "TEXT_FIELD": [],
+        "IMAGE_FIELD": [
+          3
+        ]
+      },
+      "paragraph_roles": [],
+      "compound_images": [],
+      "open_candidates": [],
+      "field_notes": {
+        "TITLE_FIELD": "Пустой заполнитель размечен: ниже содержательный объект (картинка)",
+        "TEXT_FIELD": "Текстовой области нет"
+      },
+      "uncertain": false,
+      "review": {
+        "status": "v8_author_decisions_1_oct",
+        "author": "assistant + author remarks"
+      }
+    },
+    {
+      "case_id": "d06",
+      "slide_number": 6,
+      "json_index": 5,
+      "fingerprint": "4592d8a8f2e7",
+      "layout": "1_Заголовок и объект",
+      "selection": "included",
+      "selection_reason": "",
+      "blank": false,
+      "type": "slide",
+      "type_alternatives": [],
+      "usability": "reference_only",
+      "fields": {
+        "TITLE_FIELD": [
+          2
+        ],
+        "TEXT_FIELD": [],
+        "IMAGE_FIELD": [
+          50
+        ]
+      },
+      "paragraph_roles": [],
+      "compound_images": [],
+      "open_candidates": [
+        3,
+        4,
+        7
+      ],
+      "field_notes": {
+        "TEXT_FIELD": "Справка по шрифтам и оформлению цифр, не содержательный образец"
+      },
+      "uncertain": false,
+      "review": {
+        "status": "v8_author_decisions_1_oct",
+        "author": "assistant + author remarks"
+      }
+    },
+    {
+      "case_id": "d07",
+      "slide_number": 7,
+      "json_index": 6,
+      "fingerprint": "312f92d11ad6",
+      "layout": "3_Титульный слайд",
+      "selection": "included",
+      "selection_reason": "",
+      "blank": false,
+      "type": "section",
+      "type_alternatives": [
+        "title"
+      ],
+      "usability": "full",
+      "fields": {
+        "TITLE_FIELD": [
+          6
+        ],
+        "SUBTITLE_FIELD": [
+          4
+        ]
+      },
+      "paragraph_roles": [],
+      "compound_images": [],
+      "open_candidates": [],
+      "field_notes": {
+        "SUBTITLE_FIELD": "Блок id4 (вопрос, название вопроса, докладчик) принят как один подзаголовок"
+      },
+      "uncertain": false,
+      "review": {
+        "status": "v8_author_decisions_1_oct",
+        "author": "assistant + author remarks"
+      }
+    },
+    {
+      "case_id": "d08",
+      "slide_number": 8,
+      "json_index": 7,
+      "fingerprint": "dd308688e9eb",
+      "layout": "1_Заголовок и объект",
+      "selection": "included",
+      "selection_reason": "",
+      "blank": false,
+      "type": "table",
+      "type_alternatives": [
+        "slide"
+      ],
+      "usability": "partial",
+      "fields": {
+        "TITLE_FIELD": [
+          2
+        ],
+        "TEXT_FIELD": [],
+        "TABLE_FIELD": [
+          28
+        ],
+        "IMAGE_FIELD": [
+          25,
+          802
+        ]
+      },
+      "paragraph_roles": [],
+      "compound_images": [],
+      "open_candidates": [
+        803
+      ],
+      "field_notes": {
+        "TEXT_FIELD": "id803 — подпись диаграммы; плашка «Важная информация» не размечена: у table текст только с буллетами",
+        "IMAGE_FIELD": "Рамка диаграммы id25 в исходнике заходит на таблицу id28 (по высоте на ~0,3 дюйма)"
+      },
+      "uncertain": false,
+      "review": {
+        "status": "v8_author_decisions_1_oct",
+        "author": "assistant + author remarks"
+      }
+    },
+    {
+      "case_id": "d09",
+      "slide_number": 9,
+      "json_index": 8,
+      "fingerprint": "5293a1e2effe",
+      "layout": "1_Заголовок и объект",
+      "selection": "included",
+      "selection_reason": "",
+      "blank": false,
+      "type": "table",
+      "type_alternatives": [
+        "slide"
+      ],
+      "usability": "partial",
+      "fields": {
+        "TITLE_FIELD": [
+          21
+        ],
+        "SUBTITLE_FIELD": [
+          38
+        ],
+        "TEXT_FIELD": [
+          37
+        ],
+        "TABLE_FIELD": [
+          56
+        ],
+        "IMAGE_FIELD": []
+      },
+      "paragraph_roles": [
+        {
+          "shape_id": 37,
+          "heading_paragraphs": 1,
+          "heading_role": "SUBTITLE_FIELD",
+          "body_role": "TEXT_FIELD"
+        }
+      ],
+      "compound_images": [],
+      "open_candidates": [],
+      "field_notes": {
+        "TITLE_FIELD": "Заголовок — обычный текстовый блок, не placeholder",
+        "SUBTITLE_FIELD": "Расширение README: плашка id38",
+        "TEXT_FIELD": "Блоки с образцом текста слева направо, сверху вниз; остальные образцы на слайде не размечены"
+      },
+      "uncertain": false,
+      "review": {
+        "status": "v8_author_decisions_1_oct",
+        "author": "assistant + author remarks"
+      }
+    },
+    {
+      "case_id": "d10",
+      "slide_number": 10,
+      "json_index": 9,
+      "fingerprint": "046301ad5f0b",
+      "layout": "1_Заголовок и объект",
+      "selection": "included",
+      "selection_reason": "",
+      "blank": false,
+      "type": "slide",
+      "type_alternatives": [],
+      "usability": "partial",
+      "fields": {
+        "TITLE_FIELD": [
+          2
+        ],
+        "SUBTITLE_FIELD": [
+          17,
+          50,
+          28,
+          34
+        ],
+        "TEXT_FIELD": [
+          25,
+          4,
+          35,
+          33,
+          36
+        ],
+        "IMAGE_FIELD": [
+          31,
+          5,
+          11,
+          9,
+          13
+        ]
+      },
+      "paragraph_roles": [
+        {
+          "shape_id": 25,
+          "heading_paragraphs": 1,
+          "heading_role": "SUBTITLE_FIELD",
+          "body_role": "TEXT_FIELD"
+        }
+      ],
+      "compound_images": [
+        {
+          "shape_id": 31,
+          "parts": [
+            41
+          ],
+          "note": "Значок «земной шар»: круг id31 + контур id41"
+        }
+      ],
+      "open_candidates": [],
+      "field_notes": {
+        "IMAGE_FIELD": "Значок «земной шар» размечен внешним кругом id31; контур id41 входит в значок (compound_images)",
+        "TEXT_FIELD": "Блоки с образцом текста слева направо, сверху вниз; остальные образцы на слайде не размечены"
+      },
+      "uncertain": false,
+      "review": {
+        "status": "v8_author_decisions_1_oct",
+        "author": "assistant + author remarks"
+      }
+    },
+    {
+      "case_id": "d11",
+      "slide_number": 11,
+      "json_index": 10,
+      "fingerprint": "7d756f2f0395",
+      "layout": "1_Заголовок и объект",
+      "selection": "included",
+      "selection_reason": "",
+      "blank": false,
+      "type": "slide",
+      "type_alternatives": [],
+      "usability": "partial",
+      "fields": {
+        "TITLE_FIELD": [
+          2
+        ],
+        "SUBTITLE_FIELD": [
+          21,
+          22,
+          23,
+          30
+        ],
+        "TEXT_FIELD": [
+          28,
+          25,
+          36,
+          37
+        ],
+        "IMAGE_FIELD": [
+          5,
+          20,
+          7,
+          8
+        ]
+      },
+      "paragraph_roles": [],
+      "compound_images": [
+        {
+          "shape_id": 20,
+          "parts": [
+            32
+          ],
+          "note": "Значок: круг id20 + картинка id32 внутри"
+        }
+      ],
+      "open_candidates": [],
+      "field_notes": {
+        "IMAGE_FIELD": "Значок id20: размечен внешний круг; картинка id32 внутри входит в значок (compound_images)",
+        "TEXT_FIELD": "Блоки с образцом текста слева направо, сверху вниз; остальные образцы на слайде не размечены"
+      },
+      "uncertain": false,
+      "review": {
+        "status": "v8_author_decisions_1_oct",
+        "author": "assistant + author remarks"
+      }
+    },
+    {
+      "case_id": "d12",
+      "slide_number": 12,
+      "json_index": 11,
+      "fingerprint": "037bc105e59b",
+      "layout": "1_Заголовок и объект",
+      "selection": "excluded",
+      "selection_reason": "диаграммы, цифры или сложный состав (решение автора)",
+      "blank": false,
+      "type": "slide",
+      "type_alternatives": [],
+      "usability": "partial",
+      "fields": {
+        "TITLE_FIELD": [
+          3
+        ],
+        "TEXT_FIELD": [
+          27
+        ],
+        "IMAGE_FIELD": [
+          28,
+          63,
+          75
+        ]
+      },
+      "paragraph_roles": [],
+      "compound_images": [],
+      "open_candidates": [],
+      "field_notes": {
+        "TEXT_FIELD": "Блоки с образцом текста слева направо, сверху вниз; остальные образцы на слайде не размечены"
+      },
+      "uncertain": false,
+      "review": {
+        "status": "v8_author_decisions_1_oct",
+        "author": "assistant + author remarks"
+      }
+    },
+    {
+      "case_id": "d13",
+      "slide_number": 13,
+      "json_index": 12,
+      "fingerprint": "fc67d64d36ce",
+      "layout": "1_Заголовок и объект",
+      "selection": "excluded",
+      "selection_reason": "диаграммы, цифры или сложный состав (решение автора)",
+      "blank": false,
+      "type": "slide",
+      "type_alternatives": [],
+      "usability": "partial",
+      "fields": {
+        "TITLE_FIELD": [
+          3
+        ],
+        "TEXT_FIELD": [
+          31,
+          42
+        ],
+        "IMAGE_FIELD": [
+          2,
+          51,
+          52
+        ]
+      },
+      "paragraph_roles": [],
+      "compound_images": [],
+      "open_candidates": [],
+      "field_notes": {
+        "TEXT_FIELD": "Блоки с образцом текста слева направо, сверху вниз; остальные образцы на слайде не размечены"
+      },
+      "uncertain": false,
+      "review": {
+        "status": "v8_author_decisions_1_oct",
+        "author": "assistant + author remarks"
+      }
+    },
+    {
+      "case_id": "d14",
+      "slide_number": 14,
+      "json_index": 13,
+      "fingerprint": "5963a9d9e663",
+      "layout": "1_Заголовок и объект",
+      "selection": "excluded",
+      "selection_reason": "диаграммы, цифры или сложный состав (решение автора)",
+      "blank": false,
+      "type": "slide",
+      "type_alternatives": [],
+      "usability": "partial",
+      "fields": {
+        "TITLE_FIELD": [
+          3
+        ],
+        "TEXT_FIELD": [
+          24,
+          25
+        ],
+        "IMAGE_FIELD": [
+          2
+        ]
+      },
+      "paragraph_roles": [],
+      "compound_images": [],
+      "open_candidates": [],
+      "field_notes": {
+        "TEXT_FIELD": "Блоки с образцом текста слева направо, сверху вниз; остальные образцы на слайде не размечены"
+      },
+      "uncertain": false,
+      "review": {
+        "status": "v8_author_decisions_1_oct",
+        "author": "assistant + author remarks"
+      }
+    },
+    {
+      "case_id": "d15",
+      "slide_number": 15,
+      "json_index": 14,
+      "fingerprint": "6864b3681d0a",
+      "layout": "1_Заголовок и объект",
+      "selection": "excluded",
+      "selection_reason": "диаграммы, цифры или сложный состав (решение автора)",
+      "blank": false,
+      "type": "slide",
+      "type_alternatives": [],
+      "usability": "partial",
+      "fields": {
+        "TITLE_FIELD": [
+          3
+        ],
+        "TEXT_FIELD": [
+          18,
+          44
+        ],
+        "IMAGE_FIELD": [
+          4
+        ]
+      },
+      "paragraph_roles": [
+        {
+          "shape_id": 18,
+          "heading_paragraphs": 1,
+          "heading_role": "SUBTITLE_FIELD",
+          "body_role": "TEXT_FIELD"
+        },
+        {
+          "shape_id": 44,
+          "heading_paragraphs": 1,
+          "heading_role": "SUBTITLE_FIELD",
+          "body_role": "TEXT_FIELD"
+        }
+      ],
+      "compound_images": [],
+      "open_candidates": [
+        46
+      ],
+      "field_notes": {
+        "TEXT_FIELD": "Блоки с образцом текста слева направо, сверху вниз; остальные образцы на слайде не размечены"
+      },
+      "uncertain": false,
+      "review": {
+        "status": "v8_author_decisions_1_oct",
+        "author": "assistant + author remarks"
+      }
+    },
+    {
+      "case_id": "d16",
+      "slide_number": 16,
+      "json_index": 15,
+      "fingerprint": "a9db287fe035",
+      "layout": "1_Заголовок и объект",
+      "selection": "excluded",
+      "selection_reason": "диаграммы, цифры или сложный состав (решение автора)",
+      "blank": false,
+      "type": "slide",
+      "type_alternatives": [],
+      "usability": "partial",
+      "fields": {
+        "TITLE_FIELD": [
+          3
+        ],
+        "TEXT_FIELD": [
+          21,
+          22,
+          20,
+          27,
+          28
+        ],
+        "IMAGE_FIELD": [
+          2
+        ]
+      },
+      "paragraph_roles": [],
+      "compound_images": [],
+      "open_candidates": [
+        19
+      ],
+      "field_notes": {
+        "TEXT_FIELD": "Блоки с образцом текста слева направо, сверху вниз; остальные образцы на слайде не размечены"
+      },
+      "uncertain": false,
+      "review": {
+        "status": "v8_author_decisions_1_oct",
+        "author": "assistant + author remarks"
+      }
+    },
+    {
+      "case_id": "d17",
+      "slide_number": 17,
+      "json_index": 16,
+      "fingerprint": "aad58d8ead6f",
+      "layout": "1_Заголовок и объект",
+      "selection": "included",
+      "selection_reason": "",
+      "blank": false,
+      "type": "slide",
+      "type_alternatives": [],
+      "usability": "partial",
+      "fields": {
+        "TITLE_FIELD": [
+          2
+        ],
+        "SUBTITLE_FIELD": [
+          46
+        ],
+        "TEXT_FIELD": [
+          21,
+          26,
+          33
+        ],
+        "IMAGE_FIELD": [
+          1026,
+          29,
+          30,
+          31,
+          464989,
+          6
+        ]
+      },
+      "paragraph_roles": [],
+      "compound_images": [],
+      "open_candidates": [],
+      "field_notes": {
+        "TEXT_FIELD": "Блоки с образцом текста слева направо, сверху вниз; остальные образцы на слайде не размечены"
+      },
+      "uncertain": false,
+      "review": {
+        "status": "v8_author_decisions_1_oct",
+        "author": "assistant + author remarks"
+      }
+    },
+    {
+      "case_id": "d18",
+      "slide_number": 18,
+      "json_index": 17,
+      "fingerprint": "109a6e936557",
+      "layout": "1_Заголовок и объект",
+      "selection": "excluded",
+      "selection_reason": "диаграммы, цифры или сложный состав (решение автора)",
+      "blank": false,
+      "type": "slide",
+      "type_alternatives": [],
+      "usability": "partial",
+      "fields": {
+        "TITLE_FIELD": [
+          2
+        ],
+        "SUBTITLE_FIELD": [
+          33
+        ],
+        "TEXT_FIELD": [
+          18,
+          34
+        ],
+        "IMAGE_FIELD": []
+      },
+      "paragraph_roles": [
+        {
+          "shape_id": 18,
+          "heading_paragraphs": 1,
+          "heading_role": "SUBTITLE_FIELD",
+          "body_role": "TEXT_FIELD"
+        }
+      ],
+      "compound_images": [],
+      "open_candidates": [],
+      "field_notes": {
+        "TEXT_FIELD": "Блоки с образцом текста слева направо, сверху вниз; остальные образцы на слайде не размечены"
+      },
+      "uncertain": false,
+      "review": {
+        "status": "v8_author_decisions_1_oct",
+        "author": "assistant + author remarks"
+      }
+    },
+    {
+      "case_id": "d19",
+      "slide_number": 19,
+      "json_index": 18,
+      "fingerprint": "de59f00c61de",
+      "layout": "1_Заголовок и объект",
+      "selection": "excluded",
+      "selection_reason": "диаграммы, цифры или сложный состав (решение автора)",
+      "blank": false,
+      "type": "slide",
+      "type_alternatives": [],
+      "usability": "partial",
+      "fields": {
+        "TITLE_FIELD": [
+          2
+        ],
+        "SUBTITLE_FIELD": [
+          27
+        ],
+        "TEXT_FIELD": [
+          31,
+          32,
+          40
+        ],
+        "IMAGE_FIELD": []
+      },
+      "paragraph_roles": [],
+      "compound_images": [],
+      "open_candidates": [
+        23
+      ],
+      "field_notes": {
+        "TEXT_FIELD": "Блоки с образцом текста слева направо, сверху вниз; остальные образцы на слайде не размечены"
+      },
+      "uncertain": false,
+      "review": {
+        "status": "v8_author_decisions_1_oct",
+        "author": "assistant + author remarks"
+      }
+    },
+    {
+      "case_id": "d20",
+      "slide_number": 20,
+      "json_index": 19,
+      "fingerprint": "3d4f19514f7b",
+      "layout": "1_Заголовок и объект",
+      "selection": "excluded",
+      "selection_reason": "диаграммы, цифры или сложный состав (решение автора)",
+      "blank": false,
+      "type": "slide",
+      "type_alternatives": [],
+      "usability": "partial",
+      "fields": {
+        "TITLE_FIELD": [
+          2
+        ],
+        "TEXT_FIELD": [
+          21
+        ],
+        "IMAGE_FIELD": [
+          20
+        ]
+      },
+      "paragraph_roles": [],
+      "compound_images": [],
+      "open_candidates": [
+        30,
+        31
+      ],
+      "field_notes": {
+        "TEXT_FIELD": "Блоки с образцом текста слева направо, сверху вниз; остальные образцы на слайде не размечены"
+      },
+      "uncertain": false,
+      "review": {
+        "status": "v8_author_decisions_1_oct",
+        "author": "assistant + author remarks"
+      }
+    },
+    {
+      "case_id": "d21",
+      "slide_number": 21,
+      "json_index": 20,
+      "fingerprint": "c89d1d32b85d",
+      "layout": "1_Заголовок и объект",
+      "selection": "excluded",
+      "selection_reason": "диаграммы, цифры или сложный состав (решение автора)",
+      "blank": false,
+      "type": "slide",
+      "type_alternatives": [],
+      "usability": "partial",
+      "fields": {
+        "TITLE_FIELD": [
+          2
+        ],
+        "TEXT_FIELD": [
+          36
+        ],
+        "IMAGE_FIELD": [
+          25,
+          26,
+          27
+        ]
+      },
+      "paragraph_roles": [],
+      "compound_images": [],
+      "open_candidates": [
+        31,
+        32,
+        35,
+        37,
+        39
+      ],
+      "field_notes": {
+        "TEXT_FIELD": "Блоки с образцом текста слева направо, сверху вниз; остальные образцы на слайде не размечены"
+      },
+      "uncertain": false,
+      "review": {
+        "status": "v8_author_decisions_1_oct",
+        "author": "assistant + author remarks"
+      }
+    },
+    {
+      "case_id": "d22",
+      "slide_number": 22,
+      "json_index": 21,
+      "fingerprint": "296495fdf651",
+      "layout": "1_Заголовок и объект",
+      "selection": "included",
+      "selection_reason": "",
+      "blank": false,
+      "type": "slide",
+      "type_alternatives": [],
+      "usability": "partial",
+      "fields": {
+        "TITLE_FIELD": [
+          81922
+        ],
+        "SUBTITLE_FIELD": [
+          17,
+          81925,
+          3,
+          21
+        ],
+        "TEXT_FIELD": [
+          81927,
+          15,
+          16,
+          81928,
+          18
+        ],
+        "IMAGE_FIELD": []
+      },
+      "paragraph_roles": [],
+      "compound_images": [],
+      "open_candidates": [],
+      "field_notes": {
+        "SUBTITLE_FIELD": "id3 «ПОДЗАГОЛОВОК:» лежит поверх верхней части сохранённой рамки блока id16 (общий верх 2,77 дюйма)",
+        "TEXT_FIELD": "Блоки с образцом текста слева направо, сверху вниз; остальные образцы на слайде не размечены"
+      },
+      "uncertain": false,
+      "review": {
+        "status": "v8_author_decisions_1_oct",
+        "author": "assistant + author remarks"
+      }
+    },
+    {
+      "case_id": "d23",
+      "slide_number": 23,
+      "json_index": 22,
+      "fingerprint": "6793bc4134bf",
+      "layout": "1_Заголовок и объект",
+      "selection": "excluded",
+      "selection_reason": "диаграммы, цифры или сложный состав (решение автора)",
+      "blank": false,
+      "type": "slide",
+      "type_alternatives": [],
+      "usability": "partial",
+      "fields": {
+        "TITLE_FIELD": [
+          83970
+        ],
+        "TEXT_FIELD": [
+          18
+        ],
+        "IMAGE_FIELD": []
+      },
+      "paragraph_roles": [],
+      "compound_images": [],
+      "open_candidates": [
+        2,
+        32
+      ],
+      "field_notes": {
+        "TEXT_FIELD": "Блоки с образцом текста слева направо, сверху вниз; остальные образцы на слайде не размечены"
+      },
+      "uncertain": false,
+      "review": {
+        "status": "v8_author_decisions_1_oct",
+        "author": "assistant + author remarks"
+      }
+    },
+    {
+      "case_id": "d24",
+      "slide_number": 24,
+      "json_index": 23,
+      "fingerprint": "7d0826bc79e1",
+      "layout": "1_Заголовок и объект",
+      "selection": "excluded",
+      "selection_reason": "диаграммы, цифры или сложный состав (решение автора)",
+      "blank": false,
+      "type": "slide",
+      "type_alternatives": [],
+      "usability": "partial",
+      "fields": {
+        "TITLE_FIELD": [
+          82946
+        ],
+        "TEXT_FIELD": [],
+        "IMAGE_FIELD": [
+          15,
+          18
+        ]
+      },
+      "paragraph_roles": [],
+      "compound_images": [],
+      "open_candidates": [
+        35
+      ],
+      "field_notes": {
+        "TEXT_FIELD": "Слайд состоит из диаграмм, подписей и значений; текста с буллитами нет"
+      },
+      "uncertain": false,
+      "review": {
+        "status": "v8_author_decisions_1_oct",
+        "author": "assistant + author remarks"
+      }
+    },
+    {
+      "case_id": "d25",
+      "slide_number": 25,
+      "json_index": 24,
+      "fingerprint": "5238bac1acd1",
+      "layout": "1_Заголовок и объект",
+      "selection": "included",
+      "selection_reason": "",
+      "blank": false,
+      "type": "slide",
+      "type_alternatives": [],
+      "usability": "partial",
+      "fields": {
+        "TITLE_FIELD": [
+          2
+        ],
+        "SUBTITLE_FIELD": [
+          7,
+          8
+        ],
+        "TEXT_FIELD": [
+          5,
+          6
+        ],
+        "IMAGE_FIELD": []
+      },
+      "paragraph_roles": [],
+      "compound_images": [],
+      "open_candidates": [],
+      "field_notes": {
+        "SUBTITLE_FIELD": "Расширение README: «НАЗВАНИЕ БЛОКА» id7 и id8",
+        "TEXT_FIELD": "Блоки с образцом текста слева направо, сверху вниз; остальные образцы на слайде не размечены"
+      },
+      "uncertain": false,
+      "review": {
+        "status": "v8_author_decisions_1_oct",
+        "author": "assistant + author remarks"
+      }
+    },
+    {
+      "case_id": "d26",
+      "slide_number": 26,
+      "json_index": 25,
+      "fingerprint": "b848d3f23fa7",
+      "layout": "1_Заголовок и объект",
+      "selection": "excluded",
+      "selection_reason": "диаграммы, цифры или сложный состав (решение автора)",
+      "blank": false,
+      "type": "slide",
+      "type_alternatives": [],
+      "usability": "reference_only",
+      "fields": {
+        "TITLE_FIELD": [
+          84
+        ],
+        "TEXT_FIELD": [],
+        "IMAGE_FIELD": [
+          214,
+          200,
+          232,
+          207
+        ]
+      },
+      "paragraph_roles": [],
+      "compound_images": [],
+      "open_candidates": [
+        216,
+        220,
+        224,
+        272
+      ],
+      "field_notes": {
+        "TEXT_FIELD": "175 фигур: диаграммы-водопады, подписи и значения; текстовой области нет"
+      },
+      "uncertain": false,
+      "review": {
+        "status": "v8_author_decisions_1_oct",
+        "author": "assistant + author remarks"
+      }
+    },
+    {
+      "case_id": "d27",
+      "slide_number": 27,
+      "json_index": 26,
+      "fingerprint": "f713c09750ee",
+      "layout": "1_Заголовок и объект",
+      "selection": "excluded",
+      "selection_reason": "диаграммы, цифры или сложный состав (решение автора)",
+      "blank": false,
+      "type": "table",
+      "type_alternatives": [
+        "slide"
+      ],
+      "usability": "partial",
+      "fields": {
+        "TITLE_FIELD": [
+          65
+        ],
+        "TEXT_FIELD": [],
+        "TABLE_FIELD": [
+          162
+        ],
+        "IMAGE_FIELD": [
+          375,
+          349,
+          374
+        ]
+      },
+      "paragraph_roles": [],
+      "compound_images": [],
+      "open_candidates": [
+        147,
+        151,
+        155
+      ],
+      "field_notes": {
+        "TEXT_FIELD": "Текстовой области нет; кроме таблицы — 3 диаграммы и десятки подписей"
+      },
+      "uncertain": true,
+      "review": {
+        "status": "v8_author_decisions_1_oct",
+        "author": "assistant + author remarks"
+      }
+    },
+    {
+      "case_id": "d28",
+      "slide_number": 28,
+      "json_index": 27,
+      "fingerprint": "b235cb6553e7",
+      "layout": "2_Заголовок раздела",
+      "selection": "included",
+      "selection_reason": "",
+      "blank": false,
+      "type": "last",
+      "type_alternatives": [],
+      "usability": "static",
+      "fields": {
+        "TITLE_FIELD": []
+      },
+      "paragraph_roles": [],
+      "compound_images": [],
+      "open_candidates": [],
+      "field_notes": {
+        "TITLE_FIELD": "Надпись «СПАСИБО ЗА ВНИМАНИЕ!» закреплена на макете, фигур на слайде нет"
+      },
+      "uncertain": false,
+      "review": {
+        "status": "v8_author_decisions_1_oct",
+        "author": "assistant + author remarks"
+      }
+    }
+  ]
+}
